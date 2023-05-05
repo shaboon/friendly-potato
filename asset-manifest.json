@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/friendly-potato/static/css/main.c2cab247.css",
+    "main.js": "/friendly-potato/static/js/main.1864d716.js",
+    "index.html": "/friendly-potato/index.html",
+    "main.c2cab247.css.map": "/friendly-potato/static/css/main.c2cab247.css.map",
+    "main.1864d716.js.map": "/friendly-potato/static/js/main.1864d716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.1864d716.js"
+  ]
+}
